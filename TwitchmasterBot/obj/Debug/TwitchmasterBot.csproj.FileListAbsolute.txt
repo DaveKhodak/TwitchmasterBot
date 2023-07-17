@@ -1,0 +1,12 @@
+C:\Users\Khodak\source\repos\TwitchmasterBot\TwitchmasterBot\obj\Debug\TwitchmasterBot.csproj.AssemblyReference.cache
+C:\Users\Khodak\source\repos\TwitchmasterBot\TwitchmasterBot\obj\Debug\TwitchmasterBot.Form1.resources
+C:\Users\Khodak\source\repos\TwitchmasterBot\TwitchmasterBot\obj\Debug\TwitchmasterBot.Properties.Resources.resources
+C:\Users\Khodak\source\repos\TwitchmasterBot\TwitchmasterBot\obj\Debug\TwitchmasterBot.csproj.GenerateResource.cache
+C:\Users\Khodak\source\repos\TwitchmasterBot\TwitchmasterBot\obj\Debug\TwitchmasterBot.csproj.CoreCompileInputs.cache
+C:\Users\Khodak\source\repos\TwitchmasterBot\TwitchmasterBot\bin\Debug\TwitchmasterBot.exe.config
+C:\Users\Khodak\source\repos\TwitchmasterBot\TwitchmasterBot\bin\Debug\TwitchmasterBot.exe
+C:\Users\Khodak\source\repos\TwitchmasterBot\TwitchmasterBot\bin\Debug\TwitchmasterBot.pdb
+C:\Users\Khodak\source\repos\TwitchmasterBot\TwitchmasterBot\bin\Debug\WebDriver.dll
+C:\Users\Khodak\source\repos\TwitchmasterBot\TwitchmasterBot\obj\Debug\TwitchmasterBot.csproj.CopyComplete
+C:\Users\Khodak\source\repos\TwitchmasterBot\TwitchmasterBot\obj\Debug\TwitchmasterBot.exe
+C:\Users\Khodak\source\repos\TwitchmasterBot\TwitchmasterBot\obj\Debug\TwitchmasterBot.pdb
